@@ -1,6 +1,6 @@
-# Hi there 👋, I'm [你的名字/昵称]
+# Hi there 👋, I'm xiaoxu also dongdong
 
-**`Full-Stack Developer` | `Open Source Enthusiast` | `Tech Blogger`** 欢迎来到我的主页！我是一名来自 [你的城市] 的 [你的职位/专业]。我热衷于构建有趣且实用的代码，并且永远走在探索新技术的路上。
+**`Full-Stack Developer` | `Open Source Enthusiast` | `Tech Blogger`** 欢迎来到我的主页！我是一名来自 上海 的 学生。我热衷于构建有趣且实用的代码，并且永远走在探索新技术的路上。
 
 ---
 
